@@ -1,0 +1,5 @@
+python-dateutil
+requests
+azure-common
+cognitive_face
+cognitive_luis
